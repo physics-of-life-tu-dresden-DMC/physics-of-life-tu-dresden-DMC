@@ -1,6 +1,6 @@
 # Physics of Life – Data Management Center (PoL-DMC)
 
-Welcome to the official GitHub organization for the **PoL Data Management Center** at TU Dresden.  
+Welcome to the GitHub account for the **PoL Data Management Center** at TU Dresden.  
 This organization hosts tools and resources for managing, documenting, and sharing research data across the Physics of Life (PoL) research cluster.
 
 ---
